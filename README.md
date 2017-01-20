@@ -11,4 +11,6 @@
 Nama : Qurrotul A'yun <br>
 Kelas : XIRPL6 <br>
 No : 30 <br>
-Sekolah : SMK TELKOM Malang </h3>
+Sekolah : SMK TELKOM Malang 
+<br> NIS : 4806/1525.070
+</h3>
